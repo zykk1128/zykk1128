@@ -1,10 +1,22 @@
-👋 Hey, I’m kk
+👋 Hey, I’m kk，Debugging by day, dreaming in code by night. 
+
+🚀 Passionate Developer | Open Source Enthusiast
+
+✨ I love turning ideas into code and building solutions that matter. Open source is not just a hobby—it's a way to collaborate, learn, and grow with the global dev community.
+
+🔧 Tech Stack: Vue | JavaScript | Nest | Nuxt
+
+🌟 Currently Exploring: “File-Zenith”
+
+💡 Fun Fact: I automate everything I can!
+
+Let’s connect and build something awesome together!
 
 📫 Email: 307152298@qq.com
 
-💻 掘金: https://juejin.cn/user/2740441517398525
+💻 juejin: https://juejin.cn/user/2740441517398525
 
-💬 微信：yaok1128
+💬 wechat：yaok1128
 
 
 <!--
