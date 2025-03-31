@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hey, I’m kk
+📫 Email: 307152298@qq.com
+💻 掘金: https://juejin.cn/user/2740441517398525
+💬 微信：yaok1128
+
 
 <!--
 **zykk1128/zykk1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
